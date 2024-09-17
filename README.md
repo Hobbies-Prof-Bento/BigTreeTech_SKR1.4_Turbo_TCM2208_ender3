@@ -2,7 +2,7 @@
 
 Essse repositório é para quem comprou uma BigTreeTech SKR 1.4 turbo com TMC 2208 e gostaria de configurar em uma ender 3 comum, sem BLTouch, sem dois motores, com o display LCD simples.
 
-README IN ENGLISH: LINK
+README IN ENGLISH: [LINK](https://github.com/Hobbies-Prof-Bento/BigTreeTech_SKR1.4_Turbo_TCM2208_ender3/blob/main/README_EN.md)
 
 Segue link do vídeo de como criei esse repositório: LINK
 

@@ -4,7 +4,7 @@ Essse repositório é para quem comprou uma BigTreeTech SKR 1.4 turbo com TMC 22
 
 README IN ENGLISH: [LINK](https://github.com/Hobbies-Prof-Bento/BigTreeTech_SKR1.4_Turbo_TCM2208_ender3/blob/main/README_EN.md)
 
-Segue link do vídeo de como criei esse repositório: LINK
+Segue link do vídeo de como criei esse repositório: [LINK](https://youtu.be/OS1kGkM-TtE)
 
 O repositório foi dividido para realização de dois procedimentos distintos e independentes:
 
